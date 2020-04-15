@@ -4,7 +4,7 @@ require 'imdb/version'
 
 Gem::Specification.new do |s|
   s.name        = 'imdb'
-  s.version     = Imdb::VERSION
+  s.version     = '0.8.5'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Ariejan de Vroom']
   s.email       = ['ariejan@ariejan.net']
